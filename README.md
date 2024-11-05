@@ -18,15 +18,6 @@ Here are some of the technologies and tools I work with:
 - Databases: ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
 - Tools: ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge) ![Rider](https://img.shields.io/badge/Rider-000000?logo=Rider&logoColor=white&style=for-the-badge)
 
-## 📈 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=devsarfo&show_icons=true&theme=radical)
-
-## 🏆 Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devsarfo&layout=compact&theme=radical)
-
-
 ## 💬 Let's Connect
 
 - [![Personal Website](https://img.shields.io/badge/Website-000000?logo=About.me&logoColor=white&style=for-the-badge)](https://devsarfo.com)
