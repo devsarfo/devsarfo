@@ -1,12 +1,12 @@
-# Hi there, I'm Bernard Sarfo Twumasi a.k.a DevSarfo 👋
+# Hi there, I'm Bernard Sarfo Twumasi (DevSarfo) 👋
 
-Welcome to my GitHub profile! I'm a passionate software developerr with a keen interest in web, mobile and IoT development. Here you'll find a collection of my projects, contributions, and explorations in the tech world.
+Welcome to my GitHub profile! I'm a passionate software developer with a keen interest in web, mobile and IoT development. Here you'll find a collection of my projects, contributions, and explorations in the tech world.
 
 ## 🌟 About Me
 
 - 🔭 I’m currently working on digitising the ocean at SmartOcean AS
-- 👯 I’m looking to collaborate on open-source projects solving real-word problems
-- 💬 Ask me about C#, PHP, JavaScript, TypeScript or Dart or anything programming
+- 👯 I’m looking to collaborate on open-source projects solving real-world problems
+- 💬 Ask me about C#, PHP, JavaScript, TypeScript, Dart or anything programming
 - ⚡ Fun fact: I actively play semi-professional football in Norway :)
 
 ## 🛠️ Technologies & Tools
