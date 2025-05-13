@@ -21,7 +21,7 @@ Here are some of the technologies and tools I work with:
 ## 💬 Let's Connect
 
 - [![Personal Website](https://img.shields.io/badge/Website-000000?logo=About.me&logoColor=white&style=for-the-badge)](https://devsarfo.com)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/devsarfo)
-- [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/devsarfo)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/devsarfo)
+- [![Twitter](https://img.shields.io/badge/@devsarfo-1DA1F2?logo=x&logoColor=white&style=for-the-badge)](https://x.com/devsarfo)
 
 Thank you for visiting my profile! Feel free to check out my repositories and get in touch if you'd like to collaborate on a project.
